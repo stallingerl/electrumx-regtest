@@ -15,6 +15,7 @@ To start an ElectrumX in Regtest run:
 To enter an interactive shell session on the running containers:
 
 ```docker exec -it regtest bash```
+
 ```docker exec -it electrumx bash```
 
 This will start a docker container with doichain/node-only running a daemon in regtest and a container with ElectrumX.
