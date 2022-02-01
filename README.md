@@ -21,16 +21,18 @@ Images
 ElectrumX Regtest:
 
     Docker:
-    https://hub.docker.com/repository/docker/stallingerl/electrumx-doi
+    <a href="https://hub.docker.com/repository/docker/stallingerl/electrumx-doi" target="_blank">electrumx-doi</a>
 
     Github:
-    https://github.com/Doichain/electrumx
+    <a href="https://github.com/Doichain/electrumx" target="_blank">doichain/electrumx</a>
 
 Doichain Daemon node-only:
 
     Docker:
-    https://hub.docker.com/r/doichain/node-only
+    <a href="https://hub.docker.com/r/doichain/node-only" target="_blank">node-only</a>
+    
 
     Github:
-    https://github.com/Doichain/docker/tree/master/node-only
+    <a href="https://github.com/Doichain/docker/tree/master/node-only" target="_blank">doichain/node-only</a>
+    
 
