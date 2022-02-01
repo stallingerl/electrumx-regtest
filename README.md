@@ -12,7 +12,7 @@ To start an ElectrumX in Regtest run:
 
 ```docker-compose up``` 
 
-To enter an interactive shell session on the running containers:
+To enter a shell session on the running containers:
 
 ```docker exec -it regtest bash```
 
